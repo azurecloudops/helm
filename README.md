@@ -13,7 +13,7 @@
     ```
 1. Update repo and search
     ```
-    helm search repo nakamasato
+    helm search repo azurecloudops
     NAME                     	CHART VERSION	APP VERSION	DESCRIPTION
     azurecloudops/helm-example  	0.1.0        	v0.0.1     	Simple API application.
     azurecloudops/mysql-operator	0.1.0        	v0.2.0     	A Helm chart for Kubernetes
