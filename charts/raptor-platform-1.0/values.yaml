@@ -1,0 +1,6 @@
+console:
+  enabled: true
+  
+workload:
+  service:
+    port: 8080

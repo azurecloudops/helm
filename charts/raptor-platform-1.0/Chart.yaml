@@ -1,0 +1,16 @@
+apiVersion: v2
+name: raptor-platform
+version: 2.0.0
+appVersion: 1.0.x
+description: |
+  Raptor Helm charts.
+type: application
+icon: https://azurecloudops.github.io/helm/imgs/raptor.svg
+home: https://azurecloudops.github.io/helm/overview/
+sources:
+  - https://github.com/azurecloudops/helm
+keywords:
+  - raptor
+maintainers:
+  - name: midwilshire
+    email: midwilshire@midwilshire.com
