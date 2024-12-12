@@ -27,4 +27,24 @@ entries:
     urls:
     - https://github.com/azurecloudops/helm/releases/download/mysql-operator-v0.4.1/mysql-operator-v0.4.1.tgz
     version: v0.4.1
-generated: "2024-12-12T03:34:49.525284193Z"
+  raptor-platform:
+  - apiVersion: v2
+    appVersion: 1.0.x
+    created: "2024-12-12T04:21:30.11563857Z"
+    description: 'Raptor Helm charts. '
+    digest: 27ea3d3b85a519527c3c2209794658c69ec7ba53519f3a7909853f83a17144bd
+    home: https://azurecloudops.github.io/helm/overview/
+    icon: https://azurecloudops.github.io/helm/imgs/raptor.svg
+    keywords:
+    - raptor
+    maintainers:
+    - email: midwilshire@midwilshire.com
+      name: midwilshire
+    name: raptor-platform
+    sources:
+    - https://github.com/azurecloudops/helm
+    type: application
+    urls:
+    - https://github.com/azurecloudops/helm/releases/download/raptor-platform-2.0.0/raptor-platform-2.0.0.tgz
+    version: 2.0.0
+generated: "2024-12-12T04:21:30.115645523Z"
