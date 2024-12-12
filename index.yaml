@@ -1,0 +1,30 @@
+apiVersion: v1
+entries:
+  helm-example:
+  - apiVersion: v2
+    appVersion: v0.0.1
+    created: "2024-12-12T03:34:49.301249163Z"
+    description: Simple API application.
+    digest: 0197408ad6a05043ee547a107e884f864c8c58ffc78139eb9b6a681da06e78af
+    maintainers:
+    - name: nakamasato
+    name: helm-example
+    sources:
+    - https://github.com/nakamasato/kubernetes-training
+    - https://github.com/nakamasato/flask-test
+    type: application
+    urls:
+    - https://github.com/azurecloudops/helm/releases/download/helm-example-0.1.0/helm-example-0.1.0.tgz
+    version: 0.1.0
+  mysql-operator:
+  - apiVersion: v2
+    appVersion: v0.4.1
+    created: "2024-12-12T03:34:49.525274275Z"
+    description: A Helm chart for Kubernetes
+    digest: cd0a2be6339597e6f326bdb79714b9c52da3dbc5b74da5f30236a416fa7105d0
+    name: mysql-operator
+    type: application
+    urls:
+    - https://github.com/azurecloudops/helm/releases/download/mysql-operator-v0.4.1/mysql-operator-v0.4.1.tgz
+    version: v0.4.1
+generated: "2024-12-12T03:34:49.525284193Z"
