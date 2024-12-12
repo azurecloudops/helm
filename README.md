@@ -3,3 +3,6 @@
 <!-- omit in toc -->
 # Platform Helm
 
+The Platform Helm repo contains and hosts Platform Helm charts.
+
+
